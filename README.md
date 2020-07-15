@@ -1,4 +1,4 @@
-# September 2019 Support Package stack 08
+# September 2019 Support Package Stack 08
 
 To install Fiori Tracker please follow the steps described in:
 
