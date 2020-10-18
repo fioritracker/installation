@@ -1,5 +1,7 @@
-# September 2019 Support Package Stack 08
+Fiori Tracker Core - Documentation automated.
 
-To install Fiori Tracker please follow the steps described in:
+October 2020 - Feature Package Stack 01
 
-https://help.fioritracker.org/installation
+🚛 See the installation steps at https://help.fioritracker.org/2020FPS01/#/inst/ft-core
+
+📘 Learn more from on-line help https://help.fioritracker.org/2020FPS01/#/ft-platform
